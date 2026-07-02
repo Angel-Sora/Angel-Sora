@@ -1,16 +1,106 @@
-## Hi there 👋
+# 🧊 Angel-Sora / Junior Pentester & Security Researcher
 
-<!--
-**Angel-Sora/Angel-Sora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Security+Researcher;Junior+Pentester;CTF+Player;Active+Directory+Enthusiast)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛡️ Обо мне
+
+Студент направления **10.02.05** (Обеспечение информационной безопасности автоматизированных систем).  
+Прохожу интенсивный 6-месячный курс по пентесту, совмещая теорию с активной практикой на **TryHackMe** (67+ комнат).  
+Владею **OSINT**, умею настраивать **LM Studio** для локальных LLM и разворачивать виртуальные машины под любые задачи.
+
+---
+
+## 🚀 Навыки и технологии
+
+### 🖥️ Языки программирования
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="cplusplus" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sql" height="45" alt="sql" />
+</div>
+
+### 🐧 ОС и окружение
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=windows" height="45" alt="windows" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kali" height="45" alt="kali" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arch" height="45" alt="arch" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="45" alt="bash" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="45" alt="powershell" />
+</div>
+
+### 🛠️ Инструменты пентестера
+<div align="center">
+  <img src="https://img.shields.io/badge/Nmap-0E7DC2?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-008C99?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hashcat-4B0082?style=for-the-badge&logo=hashcat&logoColor=white" />
+  <img src="https://img.shields.io/badge/John_the_Ripper-2F4F4F?style=for-the-badge&logo=john-the-ripper&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gobuster-FF5733?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+</div>
+
+### 🧠 Ключевые компетенции
+| Категория | Навыки |
+|:---|:---|
+| **Сетевые технологии** | OSI/TCP/IP, HTTP/HTTPS, DNS, TCP/UDP/ARP, NAT, CIDR, утилиты (`ping`, `traceroute`, `tcpdump`, `netstat`) |
+| **Веб-безопасность** | SQLi (все типы), XSS (Reflected/Stored/DOM), CSRF, SSRF, JWT-атаки, CORS, Path Traversal, LFI/RFI |
+| **Active Directory** | Kerberoasting, Pass-the-Hash, Golden/Silver Ticket, DCSync, ACL abuse (GenericAll, WriteOwner и др.) |
+| **Мониторинг и логи** | Windows Event Logs (Event ID: 4624, 4625, 4688, 4720, 4732, 7045, 4104), Sysmon, анализ атак |
+| **Методологии** | MITRE ATT&CK, Cyber Kill Chain, PTES, OWASP Testing Guide, CVSS |
+| **Пост-эксплуатация** | Эскалация привилегий (Linux/Windows), поиск паролей в конфигах, `sudo -l`, SUID, `whoami /priv` |
+
+
+---
+
+## 🏆 Сертификаты и достижения
+
+- ✅ **TryHackMe** — 67+ завершённых комнат (более 10 — средней сложности)
+- ✅ **Bandit** (OverTheWire) — 16 уровень
+- ✅ **XSS Game** — пройдена полностью
+- ✅ **DVWA** — все уровни сложности (без гайдов)
+- ✅ **Active Directory Lab** — Kerberoasting, PtH, Golden Ticket и др.
+
+<p align="center">
+  <a href="https://tryhackme.com/p/SharkAngel">
+    <img src="https://img.shields.io/badge/TryHackMe-SharkAngel-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📂 Планы и проекты
+
+- 🔭 Сейчас работаю над **Active Directory Lab** с полным циклом атак
+- 🌱 Углубляю **OSINT** и **Reverse Engineering**
+---
+
+## 🐍 
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+> *"Security is not a product, it's a process." — Bruce Schneier*  
+> *"The quieter you become, the more you are able to hear." — Kali Linux*
