@@ -102,11 +102,25 @@
 
 ---
 
-## 📂 Планы и проекты
+## 📂 Мои проекты
 
-- 🔭 Сейчас работаю над **Active Directory Lab** с полным циклом атак
-- 🌱 Углубляю **OSINT** и **Reverse Engineering**
----
+Здесь собраны мои ключевые работы, демонстрирующие навыки в области пентеста, автоматизации и веб-разработки.
+
+### 🔐 [Active Directory Lab](https://github.com/Angel-Sora/ad-lab-pentest)
+Комплексная лаборатория для отработки атак на Active Directory. Включает развёртывание DC и Kali Linux, сценарии атак (Kerberoasting, LLMNR Poisoning) и детальный [отчёт с командами и скриншотами](https://github.com/Angel-Sora/ad-lab-pentest/blob/main/ad-lab-pentest/attacks/lab-work.md).  
+**Технологии:** `Windows Server` · `Kali Linux` · `VirtualBox` · `Impacket` · `Responder`
+
+### 🤖 [Packet ML Detector](https://github.com/Angel-Sora/packet-ml-detector)
+Инструмент для анализа сетевого трафика и обнаружения аномалий с использованием методов машинного обучения.  
+**Технологии:** `Python` · `Scikit-learn` · `PyShark` · `Pandas`
+
+### 🔧 [Converter](https://github.com/Angel-Sora/converter)
+Многофункциональный конвертер для различных форматов данных. Показывает навыки работы с файловыми системами и пользовательскими интерфейсами.  
+**Технологии:** `Python` · `PyQt5`
+
+### 🐍 [Snake Game](https://github.com/Angel-Sora/snake-game)
+Классическая игра «Змейка», реализованная с чистым и понятным кодом. Пример моих навыков в разработке игр на Python.  
+**Технологии:** `Python` · `Pygame`
 
 ## 🐍 
 
