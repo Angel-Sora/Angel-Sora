@@ -92,7 +92,7 @@
 - ✅ **Bandit** (OverTheWire) — 16 уровень
 - ✅ **XSS Game** — пройдена полностью
 - ✅ **DVWA** — все уровни сложности (без гайдов)
-- ✅ **Active Directory Lab** — Kerberoasting, PtH, Golden Ticket и др.
+- ✅ **Active Directory Lab** — Kerberoasting.
 
 <p align="center">
   <a href="https://tryhackme.com/p/SharkAngel">
