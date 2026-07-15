@@ -77,10 +77,10 @@
 | Категория | Навыки |
 |:---|:---|
 | **Сетевые технологии** | OSI/TCP/IP, HTTP/HTTPS, DNS, TCP/UDP/ARP, NAT, CIDR, утилиты (`ping`, `traceroute`, `tcpdump`, `netstat`) |
-| **Веб-безопасность** | SQLi (все типы), XSS (Reflected/Stored/DOM), CSRF, SSRF, JWT-атаки, CORS, Path Traversal, LFI/RFI |
-| **Active Directory** | Kerberoasting, Pass-the-Hash, Golden/Silver Ticket, DCSync, ACL abuse (GenericAll, WriteOwner и др.) |
+| **Веб-безопасность** | SQLi (все типы), XSS (Reflected/Stored/DOM) |
+| **Active Directory** | Kerberoasting |
 | **Мониторинг и логи** | Windows Event Logs (Event ID: 4624, 4625, 4688, 4720, 4732, 7045, 4104), Sysmon, анализ атак |
-| **Методологии** | MITRE ATT&CK, Cyber Kill Chain, PTES, OWASP Testing Guide, CVSS |
+| **Методологии** | MITRE ATT&CK |
 | **Пост-эксплуатация** | Эскалация привилегий (Linux/Windows), поиск паролей в конфигах, `sudo -l`, SUID, `whoami /priv` |
 
 
