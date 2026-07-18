@@ -32,6 +32,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="45" alt="html" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="45" alt="bash" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="45" alt="powershell" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=windows" height="45" alt="windows" />
@@ -39,10 +43,6 @@
   <img src="https://skillicons.dev/icons?i=kali" height="45" alt="kali" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=arch" height="45" alt="arch" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="45" alt="bash" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="45" alt="powershell" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pycharm" height="45" alt="pycharm" />
   <img width="12" />
