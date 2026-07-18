@@ -52,9 +52,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vmware" height="45" alt="vmware" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=virtualbox" height="45" alt="virtualbox" />
 </div>
 
 ### 🐳  виртуализация
