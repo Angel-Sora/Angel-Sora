@@ -51,7 +51,6 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="45" alt="visualstudio" />
-  <img width="12" />
 </div>
 
 <div align="center">
@@ -68,6 +67,7 @@
   <img src="https://img.shields.io/badge/John_the_Ripper-2F4F4F?style=for-the-badge&logo=john-the-ripper&logoColor=white" />
   <img src="https://img.shields.io/badge/Gobuster-FF5733?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white" height="45" alt="termux" />
 </div>
 
 ### 🧠 Ключевые компетенции
