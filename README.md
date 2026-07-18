@@ -23,7 +23,6 @@
 
 ## 🚀 Навыки и технологии
 
-### 🖥️ Языки программирования
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="45" alt="python" />
   <img width="12" />
@@ -33,11 +32,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="45" alt="html" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sql" height="45" alt="sql" />
-</div>
-
-### 🐧 ОС и окружение
-<div align="center">
   <img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=windows" height="45" alt="windows" />
@@ -49,19 +43,32 @@
   <img src="https://skillicons.dev/icons?i=bash" height="45" alt="bash" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=powershell" height="45" alt="powershell" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="45" alt="pycharm" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vim" height="45" alt="vim" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="45" alt="postgresql" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vmware" height="45" alt="vmware" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=virtualbox" height="45" alt="virtualbox" />
 </div>
 
-### 🐳 Контейнеризация и виртуализация
+### 🐳  виртуализация
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
 </div>
 
 ### 🛠️ Инструменты пентестера
 <div align="center">
+  <img src="https://img.shields.io/badge/ffuf-FF6B00?style=for-the-badge&logo=ffuf&logoColor=white" />
+  <img src="https://img.shields.io/badge/sqlmap-2C2C2C?style=for-the-badge&logo=sqlmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hydra-3A3A3A?style=for-the-badge&logo=hydra&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-0E7DC2?style=for-the-badge&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
@@ -81,7 +88,6 @@
 | **Active Directory** | Kerberoasting |
 | **Мониторинг и логи** | Windows Event Logs (Event ID: 4624, 4625, 4688, 4720, 4732, 7045, 4104), Sysmon, анализ атак |
 | **Методологии** | MITRE ATT&CK |
-| **Пост-эксплуатация** | Эскалация привилегий (Linux/Windows), поиск паролей в конфигах, `sudo -l`, SUID, `whoami /priv` |
 
 
 ---
@@ -123,6 +129,3 @@
 **Технологии:** `Python` · `Pygame`
 
 ---
-
-> *"Security is not a product, it's a process." — Bruce Schneier*  
-> *"The quieter you become, the more you are able to hear." — Kali Linux*
