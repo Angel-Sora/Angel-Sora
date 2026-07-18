@@ -63,10 +63,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-</div>
-
-### 🛠️ Инструменты пентестера
-<div align="center">
   <img src="https://img.shields.io/badge/ffuf-FF6B00?style=for-the-badge&logo=ffuf&logoColor=white" />
   <img src="https://img.shields.io/badge/sqlmap-2C2C2C?style=for-the-badge&logo=sqlmap&logoColor=white" />
   <img src="https://img.shields.io/badge/Hydra-3A3A3A?style=for-the-badge&logo=hydra&logoColor=white" />
@@ -74,7 +70,6 @@
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-008C99?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Hashcat-4B0082?style=for-the-badge&logo=hashcat&logoColor=white" />
   <img src="https://img.shields.io/badge/John_the_Ripper-2F4F4F?style=for-the-badge&logo=john-the-ripper&logoColor=white" />
   <img src="https://img.shields.io/badge/Gobuster-FF5733?style=for-the-badge&logo=go&logoColor=white" />
