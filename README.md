@@ -52,6 +52,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="45" alt="visualstudio" />
+  <img width="12" />
 </div>
 
 ### 🐳  виртуализация
